@@ -1,1 +1,7 @@
+numpy>=1.26,<3
+pandas>=2.2,<3
+matplotlib>=3.8,<4
+scipy>=1.11,<2
+nltk>=3.8,<4
+rapidfuzz>=3.0,<4
 
